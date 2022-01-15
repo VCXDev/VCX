@@ -1,6 +1,6 @@
-### Hey, ich bin [RappyTV][Website] 👋
+### Hey, ich bin [VCXDev][Website] 👋
 
-[![Website](https://img.shields.io/website?label=rappytv.com&style=for-the-badge&url=https://www.google.com)](https://rappytv.com)
+[![Website](https://img.shields.io/website?label=rappytv.com&style=for-the-badge&url=https://www.google.com)](https://vcxdev.de)
 
 ## Ich bin ein Youtuber, Discord Bot Developer!!
 
