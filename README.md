@@ -7,6 +7,7 @@
 - 🔭 Hier kannst du dir meine Tutorials zu Discord Bots in JavaScript anschauen: [Playlist][dcbotplaylist]
 - 🌱 Ich lerne gerade die Python-Sprache.
 - 🥅 Mein Ziel für 2022: Meine ersten Opensource Projekte auf GitHub veröffentlichen.
+-  Credits : RappyTV#6969
 - ❤ Lade meinen Discord Bot auf deinen Server ein: [discord.com][dcBot]
 
 ### Soziale Netzwerke
@@ -41,5 +42,3 @@
 [dcServer]: https://dsc.gg/vcx
 [dcBot]: https://vcxdev.de/#bots
 [tiktok]: https://tiktok.com
-
-Credits RappyTV#6969 
