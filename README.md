@@ -31,7 +31,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UC1Pf8v12qUuSmVWy30ITJeQ/videos)
 
 ---
-CREDITS : RappyTV#6969
 
 <img align="left" alt="VCXDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VCXDev&show_icons=true&hide_border=true" />
 
@@ -42,3 +41,5 @@ CREDITS : RappyTV#6969
 [dcServer]: https://dsc.gg/vcx
 [dcBot]: https://vcxdev.de/#bots
 [tiktok]: https://tiktok.com
+
+Credits RappyTV#6969 
