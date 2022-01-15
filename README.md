@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=rappytv.com&style=for-the-badge&url=https://www.google.com)](https://vcxdev.de)
 
-## Ich bin ein Youtuber, Discord Bot Developer!!
+## Ich bin ein YouTuber und  Discord Bot Developer!!
 
 - 🔭 Hier kannst du dir meine Tutorials zu Discord Bots in JavaScript anschauen: [Playlist][dcbotplaylist]
 - 🌱 Ich lerne gerade die Python-Sprache.
@@ -25,7 +25,7 @@
 ### 📺 Letzte Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Discord Bot in JavaScript mit Discord.JS v13 PROGRAMMIEREN | RappyTV Tutorials](https://www.youtube.com/watch?v=4Zfi7j9L35Q)
+- [Discord Bot in JavaScript mit Discord.JS v13 PROGRAMMIEREN | ](https://www.youtube.com/watch?)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC1Pf8v12qUuSmVWy30ITJeQ/videos)
