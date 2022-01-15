@@ -32,7 +32,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UC1Pf8v12qUuSmVWy30ITJeQ/videos)
 
 ---
-
 <img align="left" alt="VCXDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VCXDev&show_icons=true&hide_border=true" />
 
 [website]: https://vcxdev.de/
