@@ -25,12 +25,13 @@
 ### 📺 Letzte Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Discord Bot in JavaScript mit Discord.JS v13 PROGRAMMIEREN | ](https://www.youtube.com/watch?)
+- [Soon... ](https://www.youtube.com/watch?)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC1Pf8v12qUuSmVWy30ITJeQ/videos)
 
 ---
+CREDITS : RappyTV#6969
 
 <img align="left" alt="VCXDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VCXDev&show_icons=true&hide_border=true" />
 
